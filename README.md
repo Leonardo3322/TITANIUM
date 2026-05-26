@@ -28,6 +28,12 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 |File|Description|
 |------|------|
 | [`T-photos`](https://github.com/Leonardo3322/TITANIUM/tree/main/T-photos) | Includes team photos |
+| [`V-photos`](https://github.com/Leonardo3322/TITANIUM/tree/main/V-photos) | Includes Vehicle photos |
+| [`Videos`](https://github.com/Leonardo3322/TITANIUM/tree/main/Videos) | |
+| [`Schemes`](https://github.com/Leonardo3322/TITANIUM/tree/main/Schemes) | Schematic diagram (PNG) of the electronic connections from the Raspberry to the components|
+| [`SRC`](https://github.com/Leonardo3322/TITANIUM/tree/main/SRC) | All the folders with the tests and practices that the team has done throughout the development of the robot along with a brief history of how we evolved and changed the codes along the way |
+| [`Models`](https://github.com/Leonardo3322/TITANIUM/tree/main/Models) | This folder is empty because our robot does not need 3D printing or virtual modeling |
+| [`Others`](https://github.com/Leonardo3322/TITANIUM/tree/main/Other) | It contains a list of components we've used, components we've tested and discarded because they didn't work as needed, and components that were implemented in the final version of the robot. It also includes two folders, one containing all the photos and the other containing all the recorded videos |
 # Project Introduction
 # First Model
 # Photos of our Team
