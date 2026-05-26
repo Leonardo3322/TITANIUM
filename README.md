@@ -24,6 +24,10 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 * [creation of the tracks](#Creation-of-the-tracks)
 * [Techbot robot video ](#Techbot-robot-video)
 # Repository Contents
+## Our repository contains the folllowing team data:
+|File|Description|
+|------|------|
+| [`T-photos`](https://github.com/Leonardo3322/TITANIUM/tree/main/T-photos) | Includes team photos |
 # Project Introduction
 # First Model
 # Photos of our Team
