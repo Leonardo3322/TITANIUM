@@ -36,7 +36,10 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 | [`Others`](https://github.com/Leonardo3322/TITANIUM/tree/main/Other) | It contains a list of components we've used, components we've tested and discarded because they didn't work as needed, and components that were implemented in the final version of the robot. It also includes two folders, one containing all the photos and the other containing all the recorded videos |
 # Project Introduction
 # First Model
+
 # Photos of our Team
+| **TITANIUM TEAM** | Guillermo Pacheco | Leonardo Da Silva |
+| ![Titanium_team](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Titanium%20Team.jpg)| ![Guillermo_Pacheco](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Guillermo%20Pacheco.jpg)| ![Leonardo_Da_Silva](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Leonardo%20Da%20Silva.jpg)|
 # Vehicle Photos
 # List of component used
 # List of component but discarded
