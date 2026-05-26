@@ -42,6 +42,8 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 | ![Titanium_team](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Titanium%20Team.jpg)|
 # Vehicle Photos
 # List of component used
+| **Name** | **Description** | **Image** |
+|----------|-----------------|-----------|
 # List of component but discarded
 # Hardware Design
 # Software Design
