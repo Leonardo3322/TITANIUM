@@ -38,8 +38,8 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 # First Model
 
 # Photos of our Team
-| **TITANIUM TEAM** | Guillermo Pacheco | Leonardo Da Silva |
-| ![Titanium_team](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Titanium%20Team.jpg)| ![Guillermo_Pacheco](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Guillermo%20Pacheco.jpg)| ![Leonardo_Da_Silva](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Leonardo%20Da%20Silva.jpg)|
+| **TITANIUM TEAM** | Guillermo Pacheco and Leonardo Da Silva |
+| ![Titanium_team](https://github.com/Leonardo3322/TITANIUM/blob/main/T-photos/Titanium%20Team.jpg)||
 # Vehicle Photos
 # List of component used
 # List of component but discarded
