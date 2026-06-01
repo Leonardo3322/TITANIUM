@@ -1,5 +1,5 @@
 # TITANIUM
-Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San Antonio), estamos conformados por Leonardo Da Silva, estudiante de 5to año, y Guillermo Pacheco, estudiante de 3er Año. Nosotros nos hemos centrado en trabajar arduamente y en conjunto para poder cumplir todos nuestros objetivos, atravesar las dificultades que nos encontremos y también apoyarnos mutuamente en los proyectos, este robot es uno de ellos y estamos demasiado orgullosos de poder presentarselos.
+We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Antonio). We are made up of Leonardo Da Silva, a 5th-year student, and Guillermo Pacheco, a 3rd-year student. We have focused on working hard and together to achieve all our goals, overcome any difficulties we encounter, and support each other in our projects. This robot is one of those projects, and we are very proud to be able to present it to you.
 # Índice
 * [Repository Contents](#Repository-Contents)
 * [Project Introduction](#Project-Introduction)
@@ -56,7 +56,6 @@ Somos el equipo Titanium representamos el UEISA (Unidad Educativa Instituto San 
 ## Time Library
 # Detection System
 # Electrical components for detection and motion
-Yo pondría esta parte en conjunto a la anterior
 # Procesing Components
 # Power Components
 # Refrigeration System
