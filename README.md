@@ -49,6 +49,7 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 | **Hexagonal Pillar Screw Kit**|Used to create structural pillars enabling two levels: Lower (motors/directional components) and upper (wiring, Raspberry Pi5, battery, breadboard, sensors)|![Hexagonal_Pillar_Screw_Kit](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Hexagonal_screw_kit_for_pillars.jpg)|
 # List of component but discarded
 | **Name** | **Description** | **Why it was discarded** | **Image** |
+| Diferencial | Permite que al girar el motor una rueda vaya en el mismo sentido o vaya en sentido contrario | Se descartó por ser muy rigida y demasiado grande para el robot | |
 # Hardware Design
 # Software Design
 ## Brief Summary of our evolution
