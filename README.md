@@ -50,7 +50,7 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 # List of component but discarded
 | **Name** | **Description** | **Why it was discarded** | **Image** |
 |----------|-----------------|--------------------------|-----------|
-|Diferencial|Permite que al girar el motor una rueda vaya en el mismo sentido o vaya en sentido contrario|Se descartó por ser muy rigida y demasiado grande para el robot||
+|**Diferencial**|Permite que al girar el motor una rueda vaya en el mismo sentido o vaya en sentido contrario|Se descartó por ser muy rigida y demasiado grande para el robot||
 # Hardware Design
 # Software Design
 ## Brief Summary of our evolution
