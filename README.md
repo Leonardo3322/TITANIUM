@@ -65,6 +65,9 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 # Detection System
 # Electrical components for detection and motion
 # Procesing Components
+| **Name** | **Function** | **Image** |
+| -------- | ------------ | --------- |
+| Raspberry Pi 5 | The Raspberry is the brain of the entire robot, allowing the programming to be saved and also executed, which allowed us to implement different commands. Without this control board, nothing would be possible; the robot simply wouldn't know what to do | ![Raspberry_Pi5](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/raspberry-pi-5-03.jpg)|
 # Power Components
 # Refrigeration System
 # Electronic Conection Diagram
