@@ -50,11 +50,11 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 # List of component but discarded
 | **Name** | **Description** | **Why it was discarded** | **Image** |
 |----------|-----------------|--------------------------|-----------|
-|**Diferencial**|Permite que al girar el motor una rueda vaya en el mismo sentido o vaya en sentido contrario|Se descartó por ser muy rigida y demasiado grande para el robot| ![Differential](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Differential.jpg)|
+|**Diferencial**|It allows that when the motor rotates, a wheel goes in the same direction or goes in the opposite direction.|It was discarded because it was too rigid and too large for the robot.| ![Differential](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Differential.jpg)|
 # Hardware Design
 | **Name** | **Description** | **Image** |
 |----------|-----------------|-----------|
-| **3D Printed Bases** | Es una base en la cual se mantienen las direccionales, sensores y los propios soportes del nivel superior (nivel de abajo), en la parte de arriba se mantienen ciertos cables, la rasberry, entre otros. | ![Base](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/IMG_20260526_143939_edit_1394414993818421.jpg) |
+| **3D Printed Bases** | It is a base that holds the directional components, sensors, and the supports for the upper level (lower level) themselves. On the top part, certain cables, the Raspberry Pi, and other things, are kept.| ![Base](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/IMG_20260526_143939_edit_1394414993818421.jpg) |
 | **Raspberry Pi5**|The motherboard - the robot's brain. Features: 8GB RAM, 4GB ROM, dual 4K GPU support, PCI Express interface. Ports: 2x HDMI, 4x USB (2x USB2.0 + 2x USB3.0), Gigabit Ethernet, 27 programmable pins (2x 3V, 2x 5V, 8x GND), USB-C power, microSD slot. Power: 5V-3A (min) to 5V-5A (max)|![Raspberry_Pi5](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/raspberry-pi-5-03.jpg)|
 | **Hexagonal Pillar Screw Kit**|Used to create structural pillars enabling two levels: Lower (motors/directional components) and upper (wiring, Raspberry Pi5, battery, breadboard, sensors)|![Hexagonal_Pillar_Screw_Kit](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Hexagonal_screw_kit_for_pillars.jpg)|
 # Software Design
