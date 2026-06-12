@@ -57,6 +57,8 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 | **3D Printed Bases** | It is a base that holds the directional components, sensors, and the supports for the upper level (lower level) themselves. On the top part, certain cables, the Raspberry Pi, and other things, are kept.| ![Base](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/IMG_20260526_143939_edit_1394414993818421.jpg) |
 | **Raspberry Pi5**|The motherboard - the robot's brain. Features: 8GB RAM, 4GB ROM, dual 4K GPU support, PCI Express interface. Ports: 2x HDMI, 4x USB (2x USB2.0 + 2x USB3.0), Gigabit Ethernet, 27 programmable pins (2x 3V, 2x 5V, 8x GND), USB-C power, microSD slot. Power: 5V-3A (min) to 5V-5A (max)|![Raspberry_Pi5](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/raspberry-pi-5-03.jpg)|
 | **Hexagonal Pillar Screw Kit**|Used to create structural pillars enabling two levels: Lower (motors/directional components) and upper (wiring, Raspberry Pi5, battery, breadboard, sensors)|![Hexagonal_Pillar_Screw_Kit](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Hexagonal_screw_kit_for_pillars.jpg)|
+| **Camera** | It is the fundamental part of the robot that allows it to distinguish distance and colors, which it detects in conjunction with other sensors. | ![Camera](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Camera.jpg)|
+| **Ultrasound sensor** | This sensor was used to detect walls to achieve a more fluid and safe movement, preventing collisions and jamming. | ![Ultrasound_sensor](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ultrasound_sensor.jpg)|
 # Software Design
 ## Brief Summary of our evolution
 ## GPIOZERO Library
