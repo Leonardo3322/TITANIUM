@@ -58,7 +58,10 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 | **Camera** | It is the fundamental part of the robot that allows it to distinguish distance and colors, which it detects in conjunction with other sensors. | ![Camera](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Camera.jpg)|
 | **Ultrasound sensor** | This sensor was used to detect walls to achieve a more fluid and safe movement, preventing collisions and jamming. | ![Ultrasound_sensor](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ultrasound_sensor.jpg)|
 | **Motor Module** | The module acts as an electronic bridge between a low-power controller (such as a microcontroller or Arduino) and an electric motor. It amplifies the control signals to provide the current and voltage necessary to operate the motor safely and precisely. | ![motor_module](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/motor_module.jpg)|
-| **Protoboard and Dupont Cables**| Is a reusable prototyping board used to build and test temporary electronic circuits without soldering. And the dupont cables serve the primary function of interconnecting electronic components without soldering. | ![Protoboard_and_Dupont_cables](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ProtoBoard_and_Dupont_cables.jpeg)
+| **Protoboard and Dupont Cables**| Is a reusable prototyping board used to build and test temporary electronic circuits without soldering. And the dupont cables serve the primary function of interconnecting electronic components without soldering. | ![Protoboard_and_Dupont_cables](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ProtoBoard_and_Dupont_cables.jpeg)|
+| **Powerbank**| Is the main power source that provides energy to the entire robot | ![Powerbank](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/powerbank.jpeg)|
+| **Differential** | It allows that when the motor rotates, a wheel goes in the same direction or goes in the opposite direction.|It was discarded because it was too rigid and too large for the robot.| ![Differential](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Differential.jpeg)|
+| **Wheel** | Its primary function is to facilitate movement and reduce friction by rolling across surfaces. | ![Wheel](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Wheel.jpeg)
 # Software Design
 ## Brief Summary of our evolution
 ## GPIOZERO Library
@@ -69,13 +72,18 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 # Procesing Components
 | **Name** | **Function** | **Image** |
 | -------- | ------------ | --------- |
-| Raspberry Pi 5 | The Raspberry is the brain of the entire robot, allowing the programming to be saved and also executed, which allowed us to implement different commands. Without this control board, nothing would be possible; the robot simply wouldn't know what to do | ![Raspberry_Pi5](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/raspberry-pi-5-03.jpg)|
+| **Raspberry Pi 5** | The Raspberry is the brain of the entire robot, allowing the programming to be saved and also executed, which allowed us to implement different commands. Without this control board, nothing would be possible; the robot simply wouldn't know what to do | ![Raspberry_Pi5](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/raspberry-pi-5-03.jpg)|
 # Power Components
+| **Name** | **Function | **Image** |
+| -------- | ---------- | --------- |
+| **Powerbank**| Is the main power source that provides energy to the entire robot | ![Powerbank](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/powerbank.jpeg)|
 # Refrigeration System
 # Electronic Conection Diagram
 # How we put together the robot
 ## First fase
 In this first phase, the goal was to use 3D bases to mount all the sensors, the Raspberry Pi 5, the power bank, and the remaining components onto it, and to provide stability to the robot. However, the option of using pre-made acrylic bases is still being considered.
+| **Phase** | **Image** |
+| **First Phase** | ![FASE1](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/FASE1.jpeg)|
 # Creation of the tracks
 # Techbot robot
 ## Video of the first titanium test
