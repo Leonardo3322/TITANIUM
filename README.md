@@ -19,8 +19,6 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 * [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot](#How-we-put-together-the-robot)
 	* [first phase](#First-phase)
-	* [second phase](#Second-phase)
- 	* [third and final phase](#Third-and-final-phase)
 * [creation of the tracks](#Creation-of-the-tracks)
 * [Techbot robot video ](#Techbot-robot-video)
 # Repository Contents
@@ -59,6 +57,8 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 | **Hexagonal Pillar Screw Kit**|Used to create structural pillars enabling two levels: Lower (motors/directional components) and upper (wiring, Raspberry Pi5, battery, breadboard, sensors)|![Hexagonal_Pillar_Screw_Kit](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Hexagonal_screw_kit_for_pillars.jpg)|
 | **Camera** | It is the fundamental part of the robot that allows it to distinguish distance and colors, which it detects in conjunction with other sensors. | ![Camera](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/Camera.jpg)|
 | **Ultrasound sensor** | This sensor was used to detect walls to achieve a more fluid and safe movement, preventing collisions and jamming. | ![Ultrasound_sensor](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ultrasound_sensor.jpg)|
+| **Motor Module** | The module acts as an electronic bridge between a low-power controller (such as a microcontroller or Arduino) and an electric motor. It amplifies the control signals to provide the current and voltage necessary to operate the motor safely and precisely. | ![motor_module](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/motor_module.jpg)|
+| **Protoboard and Dupont Cables**| Is a reusable prototyping board used to build and test temporary electronic circuits without soldering. And the dupont cables serve the primary function of interconnecting electronic components without soldering. | ![Protoboard_and_Dupont_cables](https://github.com/Leonardo3322/TITANIUM/blob/main/Other/ProtoBoard_and_Dupont_cables.jpeg)
 # Software Design
 ## Brief Summary of our evolution
 ## GPIOZERO Library
@@ -75,8 +75,7 @@ We are the Titanium team, representing UEISA (Unidad Educativa Instituto San Ant
 # Electronic Conection Diagram
 # How we put together the robot
 ## First fase
-## Second fase
-## Third fase and final fase
+In this first phase, the goal was to use 3D bases to mount all the sensors, the Raspberry Pi 5, the power bank, and the remaining components onto it, and to provide stability to the robot. However, the option of using pre-made acrylic bases is still being considered.
 # Creation of the tracks
 # Techbot robot
 ## Video of the first titanium test
